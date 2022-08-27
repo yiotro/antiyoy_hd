@@ -1,3 +1,16 @@
 # Antiyoy HD
 
-I'll write something here soon
+This is the source code for a game called Antiyoy HD. However, most people know it as Antiyoy Online. AO is only available on android and has online multiplayer. 
+
+Antiyoy HD is only available on iOS and has no multiplayer. It's basically just an offline version of Antiyoy Online. 
+
+If you want to make a mod for Antiyoy, it is better to use this version. The source code for this version was mostly written from scratch and it is much better than what was in the initial version. 
+
+How to get started:
+1. Create a new libGDX project. 
+2. Swap core and assets. 
+3. Run DesktopLauncher.java (on PC) or AndroidLauncher.java (on android)
+
+Some essential files are missing from the repository (like android manifest or gradle files). You are supposed to already have some experience with libGDX then it should not be a problem. 
+
+If you have any questions about this project (how to set it up/why it doesn't compile/why it crashes on startup) then email me at yiotro93@gmail.com, I'll help you. 
