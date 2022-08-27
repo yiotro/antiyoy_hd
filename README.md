@@ -7,9 +7,10 @@ Antiyoy HD is only available on iOS and has no multiplayer. It's basically just 
 If you want to make a mod for Antiyoy, it is better to use this version. The source code for this version was mostly written from scratch and it is much better than what was in the initial version. Please keep your mod as a non commercial project. 
 
 How to get started:
-1. Create a new libGDX project. 
-2. Swap core and assets. 
-3. Run DesktopLauncher.java (on PC) or AndroidLauncher.java (on android)
+1. Create new libGDX project. 
+2. Make sure that you can compile and run it. 
+3. Swap core and assets with ones provided here. 
+4. Run DesktopLauncher.java (on PC) or AndroidLauncher.java (on android)
 
 Some essential files are missing from the repository (like android manifest or gradle files). You are supposed to already have some experience with libGDX then it should not be a problem. 
 
