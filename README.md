@@ -4,7 +4,7 @@ This is the source code for a game called Antiyoy HD. However, most people know 
 
 Antiyoy HD is only available on iOS and has no multiplayer. It's basically just an offline version of Antiyoy Online. 
 
-If you want to make a mod for Antiyoy, it is better to use this version. The source code for this version was mostly written from scratch and it is much better than what was in the initial version. 
+If you want to make a mod for Antiyoy, it is better to use this version. The source code for this version was mostly written from scratch and it is much better than what was in the initial version. Please keep your mod as a non commercial project. 
 
 How to get started:
 1. Create a new libGDX project. 
