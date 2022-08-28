@@ -10,7 +10,6 @@ How to get started:
 1. Create new libGDX project. 
 2. Make sure that you can compile and run it. 
 3. Swap core and assets with ones provided here. 
-4. Run DesktopLauncher.java (on PC) or AndroidLauncher.java (on android)
 
 Some essential files are missing from the repository (like android manifest or gradle files). You are supposed to already have some experience with libGDX then it should not be a problem. 
 
