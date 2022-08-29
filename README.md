@@ -11,6 +11,6 @@ How to get started:
 2. Make sure that you can compile and run it. 
 3. Swap core and assets with ones provided here. 
 
-Some essential files are missing from the repository (like android manifest or gradle files). You are supposed to already have some experience with libGDX then it should not be a problem. 
+Some essential files are missing from the repository (like android manifest or gradle files). You are supposed to already have some basic experience with libGDX then it should not be a problem. 
 
 If you have any questions about this project (how to set it up/why it doesn't compile/why it crashes on startup) then email me at yiotro93@gmail.com, I'll help you. 
